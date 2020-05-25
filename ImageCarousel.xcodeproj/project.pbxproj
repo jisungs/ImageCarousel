@@ -13,6 +13,7 @@
 		96C00122247B6E4600D1AFFB /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 96C00121247B6E4600D1AFFB /* Assets.xcassets */; };
 		96C00125247B6E4600D1AFFB /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 96C00124247B6E4600D1AFFB /* Preview Assets.xcassets */; };
 		96C00128247B6E4600D1AFFB /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 96C00126247B6E4600D1AFFB /* LaunchScreen.storyboard */; };
+		96C00132247B79D900D1AFFB /* ImageCarouselView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 96C00131247B79D900D1AFFB /* ImageCarouselView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		96C00124247B6E4600D1AFFB /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		96C00127247B6E4600D1AFFB /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		96C00129247B6E4600D1AFFB /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		96C00131247B79D900D1AFFB /* ImageCarouselView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImageCarouselView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +60,7 @@
 			children = (
 				96C0011B247B6E4300D1AFFB /* AppDelegate.swift */,
 				96C0011D247B6E4300D1AFFB /* SceneDelegate.swift */,
+				96C00131247B79D900D1AFFB /* ImageCarouselView.swift */,
 				96C0011F247B6E4300D1AFFB /* ContentView.swift */,
 				96C00121247B6E4600D1AFFB /* Assets.xcassets */,
 				96C00126247B6E4600D1AFFB /* LaunchScreen.storyboard */,
@@ -148,6 +151,7 @@
 			files = (
 				96C0011C247B6E4300D1AFFB /* AppDelegate.swift in Sources */,
 				96C0011E247B6E4300D1AFFB /* SceneDelegate.swift in Sources */,
+				96C00132247B79D900D1AFFB /* ImageCarouselView.swift in Sources */,
 				96C00120247B6E4300D1AFFB /* ContentView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
